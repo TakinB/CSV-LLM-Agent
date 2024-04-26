@@ -1,0 +1,7 @@
+langchain==0.1.16
+langchain-community==0.0.34
+streamlit==1.33.0
+streamlit-chat==0.1.1
+gpt4all==2.5.1
+bs4==0.0.2
+chromadb==0.4.24
